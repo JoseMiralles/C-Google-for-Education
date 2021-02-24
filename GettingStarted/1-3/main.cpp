@@ -1,4 +1,4 @@
-// hello.cpp: Jose Miralles
+// main.cpp: Jose Miralles
 // Description: A simple Hello world program.
 
 #include <iostream>
